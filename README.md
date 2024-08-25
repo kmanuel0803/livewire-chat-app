@@ -2,7 +2,7 @@
 
 ## Installation & Quickstart
 1. Clone the repository: `git clone https://github.com/kmanuel0803/livewire-chat-app`
-2. Navigate to the project directory: `cd laravel-chat-app`
+2. Navigate to the project directory: `cd livewire-chat-app`
 3. Install the dependencies: `composer install && npm install`
 4. cp .env.example .env
 5. Run `php artisan key:generate`

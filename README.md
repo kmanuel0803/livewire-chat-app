@@ -3,9 +3,9 @@
 ## Installation & Quickstart
 1. Clone the repository: `git clone https://github.com/kmanuel0803/livewire-chat-app`
 2. Navigate to the project directory: `cd livewire-chat-app`
-3. Install the dependencies: `composer install && npm install`
-4. cp .env.example .env
-5. Run `php artisan key:generate`
+3. Install the dependencies: `composer install` and `npm install`
+4. Create your .env file or run `cp .env.example .env`
+5. Run `php artisan key:generate` to sets the APP_KEY value
 6. Run `php artisan migrate --seed` to create the tables and run the seeders
 7. Run `npm run build` to compile the assets
 
